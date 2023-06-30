@@ -1,0 +1,107 @@
+GRUPO,Jerarquia,Empleo,Varones,Mujeres
+,Autoridades Superiores,Jefe de Gobierno,1,0
+,Autoridades Superiores,"Vicejefe de Gobierno 
+",1,0
+,Autoridades Superiores,Secretario,13,8
+,Autoridades Superiores,Ministro,8,4
+,Autoridades Superiores,Gerente General Sindicatura,2,2
+,Autoridades Superiores,Titular de Organismo,2,1
+,Autoridades Superiores,Subsecretario,68,26
+,Autoridades Superiores,Subdirector Gral AGIP,14,3
+,Autoridades Superiores,Director General,197,133
+,Autoridades Superiores,Auditor Interno,12,10
+,Autoridades Superiores,Controlador de Faltas,55,78
+,Autoridades Superiores,Miembro de Junta Comunal,57,47
+,Carrera Gerencial,Gerente Operativo,467,436
+,Carrera Gerencial,Subgerente Operativo,419,407
+,Carrera de la Administracion Publica,Profesional,1972,337
+,Carrera de la Administracion Publica,Tecnica,114,992
+,Carrera de la Administracion Publica,General,12634,13299
+,Carrera de la Administracion Publica,Otro,1.01,706
+,Carrera Profesional Hospitalaria,Director,27,11
+,Carrera Profesional Hospitalaria,Sub-Director,19,11
+,Carrera Profesional Hospitalaria,Jefe Departamento,81,80
+,Carrera Profesional Hospitalaria,Jefe Division,126,141
+,Carrera Profesional Hospitalaria,Jefe Seccion,215,420
+,Carrera Profesional Hospitalaria,Jefe Unidad,404,324
+,Carrera Profesional Hospitalaria,Otros,5778,11798
+,Carrera Profesional de Enfermeria,Enfermero Profesional,1184,3352
+,Carrera Profesional de Enfermeria,Auxiliar de Enfermeria,375,608
+,Carrera Profesional de Enfermeria,Licenciado en Enfermeria,1137,3502
+,Especialidades tecnico-profesionales de la salud,Licenciado de la Salud,158,509
+,Especialidades tecnico-profesionales de la salud,Auxiliar de la Salud,36,43
+,Especialidades tecnico-profesionales de la salud,Tecnico de la Salud,549,1738
+,Residentes,1ER. A�O BASICA,196,637
+,Residentes,1ER. A�O POST-BASICA,17,64
+,Residentes,2DO. A�O BASICA,199,573
+,Residentes,2DO. A�O POST-BASICA,7,62
+,Residentes,3ER. A�O POST-BASICA,11,41
+,Residentes,3RO. Y 4TO. A�O BASICA,340,931
+,Residentes,INSTRUCTOR (CON OTRO CARGO) / INSTRUCTOR (SIN OTRO CARGO),56,147
+,Residentes,JEFE DE RESIDENTES,77,234
+,Planta Transitoria,Planta Transitoria,1631,2555
+,Docentes,Docentes,15507,39177
+,Contratos de Locaci�n de Obras y Servicios,Post grado,432,704
+,Contratos de Locaci�n de Obras y Servicios,Postgrado - Incompleto,466,717
+,Contratos de Locaci�n de Obras y Servicios,Primario,174,70
+,Contratos de Locaci�n de Obras y Servicios,Primario - Incompleto,65,7
+,Contratos de Locaci�n de Obras y Servicios,Secundario,3765,3731
+,Contratos de Locaci�n de Obras y Servicios,Secundario - Incompleto,559,247
+,Contratos de Locaci�n de Obras y Servicios,Terciario,585,803
+,Contratos de Locaci�n de Obras y Servicios,Terciario - Incompleto,299,357
+,Contratos de Locaci�n de Obras y Servicios,Universitario,1606,2573
+,Contratos de Locaci�n de Obras y Servicios,Universitario - Incompleto,1233,1537
+,Instituto Superior de la Seguridad P�blica,I01 - Director,1,0
+,Instituto Superior de la Seguridad P�blica,I02 - Vicedirector,1,0
+,Instituto Superior de la Seguridad P�blica,Senior (A/B/C/D/E),15,15
+,Instituto Superior de la Seguridad P�blica,Auxiliar Administrativo ( 1�/2�/3�/4�/5�),25,21
+,Instituto Superior de la Seguridad P�blica,Profesor Titular,4,1
+,Instituto Superior de la Seguridad P�blica,Profesor Asociado,0,2
+,Instituto Superior de la Seguridad P�blica,Investigador/ Investigador Senior,5,3
+,Instituto Superior de la Seguridad P�blica,Jefe de Trabajos Pr�cticos,0,2
+,Instituto Superior de la Seguridad P�blica,Profesor Adjunto (A/B/C/D/E/F/G/H),14,14
+,Instituto Superior de la Seguridad P�blica,Profesor Auxiliar,1,0
+,Instituto Superior de la Seguridad P�blica,Cadete,563,712
+,Instituto Superior de la Seguridad P�blica,Cadete externo,540,367
+,Jefatura Policia de la Ciudad - Bombero,Bombero Calificado,340,133
+,Jefatura Policia de la Ciudad - Bombero,Bombero Superior,213,58
+,Jefatura Policia de la Ciudad - Bombero,Capit�n,20,0
+,Jefatura Policia de la Ciudad - Bombero,Comandante,6,1
+,Jefatura Policia de la Ciudad - Bombero,Comandante General,3,0
+,Jefatura Policia de la Ciudad - Bombero,Comisario,308,39
+,Jefatura Policia de la Ciudad - Bombero,Comisario Inspector,95,14
+,Jefatura Policia de la Ciudad - Bombero,Inspector,123,4
+,Jefatura Policia de la Ciudad - Bombero,Comandante Director,4,1
+,Jefatura Policia de la Ciudad - Bombero,Jefe del Cuerpo de Bomberos,1,0
+,Jefatura Policia de la Ciudad - Bombero,Oficial,184,68
+,Jefatura Policia de la Ciudad - Bombero,Oficial Mayor,168,26
+,Jefatura Policia de la Ciudad - Bombero,Oficial Primero,188,23
+,Jefatura Policia de la Ciudad - Bombero,Principal,27,1
+,Jefatura Policia de la Ciudad - Bombero,Subcomandante,7,1
+,Jefatura Policia de la Ciudad - Bombero,Subcomisario,21,2
+,Jefatura Policia de la Ciudad - Bombero,Subteniente,139,26
+,Jefatura Policia de la Ciudad - Bombero,Teniente,61,0
+,Jefatura Policia de la Ciudad - Civil,Nivel A,21,9
+,Jefatura Policia de la Ciudad - Civil,Nivel B,31,17
+,Jefatura Policia de la Ciudad - Civil,Nivel C,26,41
+,Jefatura Policia de la Ciudad - Civil,Nivel D,50,46
+,Jefatura Policia de la Ciudad - Civil,Nivel E,94,124
+,Jefatura Policia de la Ciudad - Civil,Nivel F,55,99
+,Jefatura Policia de la Ciudad - Civil,Nivel G,168,307
+,Jefatura Policia de la Ciudad - Civil,Nivel H,176,382
+,Jefatura Policia de la Ciudad - Civil,Nivel I,137,307
+,Jefatura Policia de la Ciudad - Civil,Nivel J,190,303
+,Jefatura Policia de la Ciudad - Oficial,Comisario,297,39
+,Jefatura Policia de la Ciudad - Oficial,Comisario General,18,1
+,Jefatura Policia de la Ciudad - Oficial,Comisario Inspector,94,14
+,Jefatura Policia de la Ciudad - Oficial,Comisario Mayor,41,4
+,Jefatura Policia de la Ciudad - Oficial,Inspector,2.27,509
+,Jefatura Policia de la Ciudad - Oficial,Jefe,1,0
+,Jefatura Policia de la Ciudad - Oficial,Oficial,6456,5099
+,Jefatura Policia de la Ciudad - Oficial,Oficial 3� GAOS,1,0
+,Jefatura Policia de la Ciudad - Oficial,Oficial Ayudante,0,1
+,Jefatura Policia de la Ciudad - Oficial,Oficial Mayor,3348,1026
+,Jefatura Policia de la Ciudad - Oficial,Oficial Primero,4598,1269
+,Jefatura Policia de la Ciudad - Oficial,Principal,749,158
+,Jefatura Policia de la Ciudad - Oficial,Subcomisario,509,111
+,Jefatura Policia de la Ciudad - Oficial,Subjefe,1,0
