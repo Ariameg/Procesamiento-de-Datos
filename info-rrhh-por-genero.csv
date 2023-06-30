@@ -1,4 +1,4 @@
-;GRUPO;Jerarquía; Q Varones; Q Mujeres
+;GRUPO;Jerarquia;Varones;Mujeres
 ;Autoridades Superiores;Jefe de Gobierno;1;0
 ;Autoridades Superiores;"Vicejefe de Gobierno 
 ";1;0
@@ -14,10 +14,10 @@
 ;Autoridades Superiores;Miembro de Junta Comunal;57;47
 ;Carrera Gerencial;Gerente Operativo;467;436
 ;Carrera Gerencial;Subgerente Operativo;419;407
-;Carrera de la Administración Pública;Profesional;1.972;3.370
-;Carrera de la Administración Pública;Técnica;1.140;992
-;Carrera de la Administración Pública;General;12.634;13.299
-;Carrera de la Administración Pública;Otro;1.010;706
+;Carrera de la Administracion Publica;Profesional;1.972;3.370
+;Carrera de la Administracion Publica;Tecnica;1.140;992
+;Carrera de la Administracion Publica;General;12.634;13.299
+;Carrera de la Administracion Publica;Otro;1.010;706
 ;Carrera Profesional Hospitalaria;Director;27;11
 ;Carrera Profesional Hospitalaria;Sub-Director;19;11
 ;Carrera Profesional Hospitalaria;Jefe Departamento;81;80
@@ -25,47 +25,47 @@
 ;Carrera Profesional Hospitalaria;Jefe Seccion;215;420
 ;Carrera Profesional Hospitalaria;Jefe Unidad;404;324
 ;Carrera Profesional Hospitalaria;Otros;5.778;11.798
-;Carrera Profesional de Enfermería;Enfermero Profesional;1.184;3.352
-;Carrera Profesional de Enfermería;Auxiliar de Enfermería;375;608
-;Carrera Profesional de Enfermería;Licenciado en Enfermería;1.137;3.502
-;Especialidades técnico-profesionales de la salud;Licenciado de la Salud;158;509
-;Especialidades técnico-profesionales de la salud;Auxiliar de la Salud;36;43
-;Especialidades técnico-profesionales de la salud;Técnico de la Salud;549;1.738
-;Residentes;1ER. AÑO BASICA;196;637
-;Residentes;1ER. AÑO POST-BASICA;17;64
-;Residentes;2DO. AÑO BASICA;199;573
-;Residentes;2DO. AÑO POST-BASICA;7;62
-;Residentes;3ER. AÑO POST-BASICA;11;41
-;Residentes;3RO. Y 4TO. AÑO BASICA;340;931
+;Carrera Profesional de Enfermeria;Enfermero Profesional;1.184;3.352
+;Carrera Profesional de Enfermeria;Auxiliar de Enfermeria;375;608
+;Carrera Profesional de Enfermeria;Licenciado en Enfermeria;1.137;3.502
+;Especialidades tecnico-profesionales de la salud;Licenciado de la Salud;158;509
+;Especialidades tecnico-profesionales de la salud;Auxiliar de la Salud;36;43
+;Especialidades tecnico-profesionales de la salud;Tï¿½cnico de la Salud;549;1.738
+;Residentes;1ER. Aï¿½O BASICA;196;637
+;Residentes;1ER. Aï¿½O POST-BASICA;17;64
+;Residentes;2DO. Aï¿½O BASICA;199;573
+;Residentes;2DO. Aï¿½O POST-BASICA;7;62
+;Residentes;3ER. Aï¿½O POST-BASICA;11;41
+;Residentes;3RO. Y 4TO. Aï¿½O BASICA;340;931
 ;Residentes;INSTRUCTOR (CON OTRO CARGO) / INSTRUCTOR (SIN OTRO CARGO);56;147
 ;Residentes;JEFE DE RESIDENTES;77;234
 ;Planta Transitoria;Planta Transitoria;1.631;2.555
 ;Docentes;Docentes;15.507;39.177
-;Contratos de Locación de Obras y Servicios;Post grado;432;704
-;Contratos de Locación de Obras y Servicios;Postgrado - Incompleto;466;717
-;Contratos de Locación de Obras y Servicios;Primario;174;70
-;Contratos de Locación de Obras y Servicios;Primario - Incompleto;65;7
-;Contratos de Locación de Obras y Servicios;Secundario;3.765;3.731
-;Contratos de Locación de Obras y Servicios;Secundario - Incompleto;559;247
-;Contratos de Locación de Obras y Servicios;Terciario;585;803
-;Contratos de Locación de Obras y Servicios;Terciario - Incompleto;299;357
-;Contratos de Locación de Obras y Servicios;Universitario;1.606;2.573
-;Contratos de Locación de Obras y Servicios;Universitario - Incompleto;1.233;1.537
-;Instituto Superior de la Seguridad Pública;I01 - Director;1;0
-;Instituto Superior de la Seguridad Pública;I02 - Vicedirector;1;0
-;Instituto Superior de la Seguridad Pública;Senior (A/B/C/D/E);15;15
-;Instituto Superior de la Seguridad Pública;Auxiliar Administrativo ( 1°/2°/3°/4°/5°);25;21
-;Instituto Superior de la Seguridad Pública;Profesor Titular;4;1
-;Instituto Superior de la Seguridad Pública;Profesor Asociado;0;2
-;Instituto Superior de la Seguridad Pública;Investigador/ Investigador Senior;5;3
-;Instituto Superior de la Seguridad Pública;Jefe de Trabajos Prácticos;0;2
-;Instituto Superior de la Seguridad Pública;Profesor Adjunto (A/B/C/D/E/F/G/H);14;14
-;Instituto Superior de la Seguridad Pública;Profesor Auxiliar;1;0
-;Instituto Superior de la Seguridad Pública;Cadete;563;712
-;Instituto Superior de la Seguridad Pública;Cadete externo;540;367
+;Contratos de Locaciï¿½n de Obras y Servicios;Post grado;432;704
+;Contratos de Locaciï¿½n de Obras y Servicios;Postgrado - Incompleto;466;717
+;Contratos de Locaciï¿½n de Obras y Servicios;Primario;174;70
+;Contratos de Locaciï¿½n de Obras y Servicios;Primario - Incompleto;65;7
+;Contratos de Locaciï¿½n de Obras y Servicios;Secundario;3.765;3.731
+;Contratos de Locaciï¿½n de Obras y Servicios;Secundario - Incompleto;559;247
+;Contratos de Locaciï¿½n de Obras y Servicios;Terciario;585;803
+;Contratos de Locaciï¿½n de Obras y Servicios;Terciario - Incompleto;299;357
+;Contratos de Locaciï¿½n de Obras y Servicios;Universitario;1.606;2.573
+;Contratos de Locaciï¿½n de Obras y Servicios;Universitario - Incompleto;1.233;1.537
+;Instituto Superior de la Seguridad Pï¿½blica;I01 - Director;1;0
+;Instituto Superior de la Seguridad Pï¿½blica;I02 - Vicedirector;1;0
+;Instituto Superior de la Seguridad Pï¿½blica;Senior (A/B/C/D/E);15;15
+;Instituto Superior de la Seguridad Pï¿½blica;Auxiliar Administrativo ( 1ï¿½/2ï¿½/3ï¿½/4ï¿½/5ï¿½);25;21
+;Instituto Superior de la Seguridad Pï¿½blica;Profesor Titular;4;1
+;Instituto Superior de la Seguridad Pï¿½blica;Profesor Asociado;0;2
+;Instituto Superior de la Seguridad Pï¿½blica;Investigador/ Investigador Senior;5;3
+;Instituto Superior de la Seguridad Pï¿½blica;Jefe de Trabajos Prï¿½cticos;0;2
+;Instituto Superior de la Seguridad Pï¿½blica;Profesor Adjunto (A/B/C/D/E/F/G/H);14;14
+;Instituto Superior de la Seguridad Pï¿½blica;Profesor Auxiliar;1;0
+;Instituto Superior de la Seguridad Pï¿½blica;Cadete;563;712
+;Instituto Superior de la Seguridad Pï¿½blica;Cadete externo;540;367
 ;Jefatura Policia de la Ciudad - Bombero;Bombero Calificado;340;133
 ;Jefatura Policia de la Ciudad - Bombero;Bombero Superior;213;58
-;Jefatura Policia de la Ciudad - Bombero;Capitán;20;0
+;Jefatura Policia de la Ciudad - Bombero;Capitï¿½n;20;0
 ;Jefatura Policia de la Ciudad - Bombero;Comandante;6;1
 ;Jefatura Policia de la Ciudad - Bombero;Comandante General;3;0
 ;Jefatura Policia de la Ciudad - Bombero;Comisario;308;39
@@ -98,7 +98,7 @@
 ;Jefatura Policia de la Ciudad - Oficial;Inspector;2.270;509
 ;Jefatura Policia de la Ciudad - Oficial;Jefe;1;0
 ;Jefatura Policia de la Ciudad - Oficial;Oficial;6.456;5.099
-;Jefatura Policia de la Ciudad - Oficial;Oficial 3º GAOS;1;0
+;Jefatura Policia de la Ciudad - Oficial;Oficial 3ï¿½ GAOS;1;0
 ;Jefatura Policia de la Ciudad - Oficial;Oficial Ayudante;0;1
 ;Jefatura Policia de la Ciudad - Oficial;Oficial Mayor;3.348;1.026
 ;Jefatura Policia de la Ciudad - Oficial;Oficial Primero;4.598;1.269
